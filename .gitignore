@@ -120,3 +120,5 @@ data/rt_da_monthly_lmps-q2.csv
 data/sample_prices-q2.xlsx
 data/sample_prices.xlsx
 .streamlit/secrets.toml.example
+test_api.py
+test_openai_api.py
