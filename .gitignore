@@ -1,0 +1,122 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Environment variables and secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+
+# Streamlit secrets
+.streamlit/secrets.toml
+.streamlit/secrets.json
+
+# API keys and credentials
+secrets.toml
+secrets.json
+config.ini
+credentials.json
+token.json
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+log/
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Data files (optional - uncomment if you don't want to commit data)
+# data/
+# *.csv
+# *.xlsx
+# *.parquet
+
+# Build artifacts
+*.spec
+build/
+dist/
+*.exe
+*.app
+
+# Docker
+.dockerignore
+Dockerfile
+docker-compose.yml
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*.ipynb
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+data/2025-08-18T00-34_export.csv
+data/2025-08-18T16-14_export.csv
+data/rt_da_monthly_lmps-q1.csv
+data/rt_da_monthly_lmps-q2.csv
+data/sample_prices-q2.xlsx
+data/sample_prices.xlsx
+.streamlit/secrets.toml.example
